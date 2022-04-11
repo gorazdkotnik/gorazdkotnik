@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gorazd Kotnik</h1>
-<h3 align="center">A passionate fullstack developer from Slovenia</h3>
+<h3 align="center">A passionate CS student from Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorazdkotnik&label=Profile%20views&color=0e75b6&style=flat" alt="gorazdkotnik" /> </p>
 
