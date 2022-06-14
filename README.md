@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorazdkotnik" alt="gorazdkotnik" /></a> </p>
 
-- 🔭 I’m currently working on [PohodV2_web](https://github.com/gorazdkotnik/PohodV2_web)
-
 - 🌱 I’m currently learning **Unity, React Native**
 
 - 📫 How to reach me **gorazdkotnik05@gmail.com**
