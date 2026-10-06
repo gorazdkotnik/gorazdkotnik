@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorazdkotnik" alt="gorazdkotnik" /></a> </p>
 
-- 📫 How to reach me **gorazdkotnik05@gmail.com**
-
 - ⚡ Fun fact **Suzuki originally began making weaving looms**
 
 <h3 align="left">Connect with me:</h3>
